@@ -17,17 +17,16 @@
   <img align="center" alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
-Lern every Day
+- Learn every Day
+- VENI, VIDI, VICI
 
 Apaixonado por tecnologia, educação e por transformar o mundo da minha realidade através da programação.
 
-VENI, VIDI, VICI
-
 ## Estudando atualmente:
-- [Análise e Desenvolvimento de Sistemas 2 semestre - Universidade Positivo]<br/>
-- [JavaScript com JQUERY]<br/>
-- [HTML e CSS]<br/>
-- [UI e UX Design]<br/>
-- [Web Design]<br/>
-- [Modelagem de Dados SQL server]<br/>
+- Análise e Desenvolvimento de Sistemas 2 semestre - Universidade Positivo <br/>
+- JavaScript com JQUERY <br/>
+- HTML e CSS <br/>
+- UI e UX Design <br/>
+- Web Design <br/>
+- Modelagem de Dados SQL server <br/>
 
