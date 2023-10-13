@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Lucas Nascimento 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nascimento-8b9893218/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_hdw/)
-[![Online CV](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://portfolio-lucas.netlify.app/)
-
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Nascim&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Nascim)](https://github.com/anuraghazra/github-readme-stats)
 
